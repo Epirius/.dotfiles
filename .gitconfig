@@ -1,0 +1,10 @@
+
+[code]
+	editor = nvim
+[user]
+	email = mrKaasa@protonmail.com
+	name = Felix Kaasa
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true
