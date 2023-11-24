@@ -1,4 +1,5 @@
 #!/bin/bash
 ~/.dotfiles/scripts/random-bg.sh
-waybar &
+/usr/lib/polkit-kde-authentication-agent-1
+
 exit 0
