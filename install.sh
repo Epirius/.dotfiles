@@ -10,8 +10,11 @@ ln -s $DOT/.gitconfig ~/.gitconfig
 
 # ~/.config 
 mkdir -p ~/.config
-ln -s $DOT/nvim ~/.config/nvim
 ln -s $DOT/hyprland/gtklock ~/.config/gtklock
+
+# ~/.config/nvim
+mkdir -p ~/.config/nvim
+ln -s $DOT/nvim/custom ~/.config/nvim/lua/custom
 
 # ~/.config/hypr 
 mkdir -p ~/.config/hypr
