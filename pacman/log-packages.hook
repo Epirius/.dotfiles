@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Operation = Remove
+Type = Package
+
+[Action]
+Depends = bash
+When = PostTransaction
+Exec = ~/.dotfiles/scripts/log-arch-packages.sh
