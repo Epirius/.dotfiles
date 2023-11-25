@@ -3,8 +3,9 @@ Operation = Install
 Operation = Upgrade
 Operation = Remove
 Type = Package
+Target = *
 
 [Action]
 Depends = bash
 When = PostTransaction
-Exec = ~/.dotfiles/scripts/log-arch-packages.sh
+Exec = /home/fk/.dotfiles/scripts/log-arch-packages.sh
