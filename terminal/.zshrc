@@ -65,8 +65,10 @@ ZSH_THEME="robbyrussell"
 # ZSH_CUSTOM=/path/to/new-custom-folder
 
 plugins=(git docker web-search python rust)
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOME/.zplug/init.zsh
 source $ZSH/oh-my-zsh.sh
+source /usr/share/nvm/init-nvm.sh
 
 # User configuration
 
