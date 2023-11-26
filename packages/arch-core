@@ -21,10 +21,12 @@ iwd
 kate
 kitty
 less
+libnotify
 libpulse
 linux
 linux-firmware
 linux-headers
+lsof
 ly
 nano
 neofetch
