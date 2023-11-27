@@ -1,6 +1,7 @@
 base
 base-devel
 bat
+blueman
 bluez
 bluez-utils
 brightnessctl
