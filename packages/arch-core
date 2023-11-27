@@ -36,6 +36,7 @@ networkmanager
 nm-connection-editor
 obsidian
 openssh
+pavucontrol
 pipewire
 pipewire-alsa
 pipewire-jack
