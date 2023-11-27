@@ -1,6 +1,8 @@
 base
 base-devel
 bat
+bluez
+bluez-utils
 brightnessctl
 dolphin
 dunst
@@ -30,6 +32,7 @@ nano
 neofetch
 neovim
 networkmanager
+nm-connection-editor
 obsidian
 openssh
 pipewire
