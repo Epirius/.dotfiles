@@ -12,6 +12,7 @@ efibootmgr
 eza
 fd
 firefox
+gendesk
 git
 github-cli
 grub
@@ -35,6 +36,10 @@ neofetch
 neovim
 networkmanager
 nm-connection-editor
+node-gyp
+nodejs
+nodejs-nopt
+npm
 obsidian
 openssh
 pavucontrol
@@ -47,10 +52,12 @@ powerline
 qt5-wayland
 qt6-wayland
 ripgrep
+semver
 smartmontools
 sof-firmware
 swaybg
 tldr
+tree
 vim
 waybar
 wev
