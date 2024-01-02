@@ -128,4 +128,5 @@ esac
 # Flyctl
 export FLYCTL_INSTALL="/home/fk/.fly"
 export PATH="$FLYCTL_INSTALL/bin:$PATH"
+export PATH="$HOME/go/bin:$HOME/bin:$PATH"
 # Flyctl end
